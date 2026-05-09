@@ -4,5 +4,5 @@ Use the PokeAPI to show the user all of a Pokemon's info. Display a random Pokem
 ## Features
 
 - Search Pokemon
-- -Random Pokemon generator
-- -Pokemon evolution lines
+- Random Pokemon generator
+- Pokemon evolution lines
